@@ -1,0 +1,9 @@
+def fizz_buzz(numbers)
+  numbers.map do |item|
+    ret = ''
+    ret += 'fizz' if item % 3 == 0
+    ret += 'buzz' if item % 5 == 0
+    ret += item.to_s if ret == ''
+    ret
+  end
+end
