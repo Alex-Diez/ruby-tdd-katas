@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'longest_palindrome_substring/day01'
+require 'longest_palindrome_substring/day01.rb'
 
 class LongestPalindromeSubstringTest < Minitest::Test
   def setup

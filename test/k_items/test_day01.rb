@@ -1,5 +1,5 @@
 require 'rspec'
-require 'k_items/day01'
+require 'k_items/day01.rb'
 
 describe 'k itmes' do
     it 'gets one item from single item array' do

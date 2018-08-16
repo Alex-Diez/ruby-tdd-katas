@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'string_calc/day01'
+require 'string_calc/day01.rb'
 
 class StringCalcTest < Minitest::Test
   def setup

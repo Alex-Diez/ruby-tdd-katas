@@ -1,5 +1,5 @@
 require 'rspec'
-require 'fizz_buzz/day01'
+require 'fizz_buzz/day01.rb'
 
 describe 'fizz buzz' do
   it 'has to print "fizz"' do

@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'matrix_transpose/day01'
+require 'matrix_transpose/day01.rb'
 
 class TransposeMatrixTest < Minitest::Test
   def setup

@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'roman_numerals/day01'
+require 'roman_numerals/day01.rb'
 
 class RomanNumeralsTest < Minitest::Test
   def setup

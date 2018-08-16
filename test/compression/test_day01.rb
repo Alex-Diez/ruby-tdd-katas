@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require 'compression/day01'
+require 'compression/day01.rb'
 
 class CompressorTest < Minitest::Test
   def setup
